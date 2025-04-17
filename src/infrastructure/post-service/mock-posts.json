@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "title": "OpenAI releases new version of ChatGPT with improved reasoning",
+    "by": "airesearcher",
+    "time": 1685432400,
+    "url": "https://openai.com/blog/chatgpt-reasoning-update",
+    "text": "OpenAI has announced a significant update to ChatGPT that enhances its reasoning capabilities. The new model shows improved performance on complex tasks and mathematical problems. Users report more consistent and accurate responses across a variety of domains.",
+    "score": 342,
+    "descendants": 127,
+    "kids": [45, 67, 89, 120]
+  },
+  {
+    "id": 2,
+    "title": "Google's Gemini outperforms GPT-4 on benchmark tests",
+    "by": "techanalyst",
+    "time": 1685518800,
+    "url": "https://blog.google/technology/ai/gemini-benchmark-results",
+    "text": "Google has released benchmark results showing Gemini outperforming OpenAI's GPT-4 on several key metrics. The tests focused on reasoning, coding, and multilingual capabilities. Industry experts are analyzing the results to understand the implications for AI development.",
+    "score": 287,
+    "descendants": 98,
+    "kids": [102, 145, 167]
+  },
+  {
+    "id": 3,
+    "title": "Meta open-sources LLaMA 3 with 70B parameters",
+    "by": "mlresearcher",
+    "time": 1685605200,
+    "url": "https://ai.meta.com/blog/llama-3-release",
+    "text": "Meta has announced the release of LLaMA 3, their latest large language model with 70 billion parameters. The model is being open-sourced to accelerate AI research and development. Early tests show competitive performance compared to proprietary models.",
+    "score": 412,
+    "descendants": 156,
+    "kids": [201, 234, 267, 289, 301]
+  },
+  {
+    "id": 4,
+    "title": "Anthropic's Claude 3 introduces new safety features",
+    "by": "aisafety",
+    "time": 1685691600,
+    "url": "https://www.anthropic.com/claude3-safety",
+    "text": "Anthropic has unveiled Claude 3 with enhanced safety features designed to reduce harmful outputs. The model incorporates a new approach to alignment that aims to better understand human values. Researchers praise the transparency of Anthropic's safety methodology.",
+    "score": 198,
+    "descendants": 87,
+    "kids": [312, 345, 367]
+  },
+  {
+    "id": 5,
+    "title": "DALL·E 3 generates photorealistic images from complex prompts",
+    "by": "visualai",
+    "time": 1685778000,
+    "url": "https://openai.com/blog/dall-e-3-photorealism",
+    "text": "OpenAI's DALL·E 3 demonstrates unprecedented ability to generate photorealistic images from detailed text descriptions. The new model shows improved understanding of spatial relationships and complex scenes. Artists and designers are exploring its creative potential.",
+    "score": 376,
+    "descendants": 142,
+    "kids": [401, 423, 456, 478]
+  },
+  {
+    "id": 6,
+    "title": "New programming language aims to simplify AI development",
+    "by": "languagedesigner",
+    "time": 1685864400,
+    "url": "https://github.com/ai-lang/docs",
+    "text": "Researchers have introduced a new programming language specifically designed for AI development. The language features built-in support for tensor operations and automatic differentiation. Early adopters report significant productivity improvements.",
+    "score": 245,
+    "descendants": 112,
+    "kids": [501, 523, 545]
+  },
+  {
+    "id": 7,
+    "title": "Study shows bias in popular AI models despite mitigation efforts",
+    "by": "ethicsresearcher",
+    "time": 1685950800,
+    "url": "https://arxiv.org/abs/2305.12345",
+    "text": "A comprehensive study has revealed persistent biases in popular AI models, including those from OpenAI and Google. The research highlights challenges in creating truly neutral systems. Experts call for more diverse training data and improved evaluation methods.",
+    "score": 187,
+    "descendants": 94,
+    "kids": [601, 623, 645, 667]
+  },
+  {
+    "id": 8,
+    "title": "Startup raises $50M to build AI-powered code generation tools",
+    "by": "venturenews",
+    "time": 1686037200,
+    "url": "https://techcrunch.com/ai-code-startup-funding",
+    "text": "A startup focused on AI-powered code generation has secured $50 million in Series B funding. Their tools aim to automate routine programming tasks and increase developer productivity. The company plans to expand their team and enhance their product offerings.",
+    "score": 156,
+    "descendants": 67,
+    "kids": [701, 723]
+  },
+  {
+    "id": 9,
+    "title": "ChatGPT usage surges in educational settings despite concerns",
+    "by": "edtech",
+    "time": 1686123600,
+    "url": "https://www.edweek.org/technology/chatgpt-education-usage",
+    "text": "A new report indicates a significant increase in ChatGPT usage among students and educators. Schools are developing guidelines to address potential academic integrity issues. Some institutions are exploring ways to incorporate AI tools into their curriculum.",
+    "score": 203,
+    "descendants": 89,
+    "kids": [801, 823, 845, 867]
+  },
+  {
+    "id": 10,
+    "title": "Researchers develop method to detect AI-generated content",
+    "by": "securityexpert",
+    "time": 1686210000,
+    "url": "https://arxiv.org/abs/2306.54321",
+    "text": "Computer scientists have created a new technique to identify content generated by AI models like GPT-4 and Claude. The method analyzes subtle patterns in text that are characteristic of machine generation. The tool achieves over 95% accuracy on benchmark datasets.",
+    "score": 278,
+    "descendants": 104,
+    "kids": [901, 923, 945]
+  }
+]
