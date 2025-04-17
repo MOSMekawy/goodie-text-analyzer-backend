@@ -158,7 +158,7 @@ Below is a recommended approach for adding a new vertical slice (feature) to the
      ```
 
 10. **Register Your Feature**
-    - In `main.ts`, import and include your new module if it needs to be part of the main server application.
+    - In your main module import and include your new module if it needs to be part of the main server application.
     - If your feature is only needed in the background worker, then you’d do a similar step in `worker.ts`.
 
 11. **Test & Validate**
